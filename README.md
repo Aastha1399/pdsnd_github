@@ -23,6 +23,7 @@ https://twitter.com/richardkalehoff
 
 https://github.com/junolee
 https://www.linkedin.com/in/junoleelj
+
 -The data for all 3 cities that is used in this project can be accessed through the link mentioned below :
 
 -City Data
