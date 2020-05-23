@@ -167,7 +167,7 @@ def user_stats(df,city):
 
     # TO DO: Display counts of user types
     user_types = df['User Type'].value_counts()
-    print("The values of different user types are ",user_types)
+    print("The values of different user types are: ",user_types)
 
 
     
